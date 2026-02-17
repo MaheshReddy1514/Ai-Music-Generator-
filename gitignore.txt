@@ -1,0 +1,12 @@
+# Python bytecode and cache files
+*.pyc
+__pycache__/
+
+# Environment variables file
+.env
+*.log
+
+# Virtual environment directories
+tf-env/
+streamlit-env-py310/
+
